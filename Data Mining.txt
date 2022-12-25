@@ -1,0 +1,53 @@
+RAW ডেটা থেকে  useful ইনফরমেশনে পরিণত করতে কোম্পানিগুলো যে প্রসেস ব্যবহার করে সেটাই ডেটা মাইনিং। 
+
+ডেটা মাইনিং এর সুবিধা কিভাবে নেয় কোন কোম্পানি ? 
+বিশাল পরিমাণ ডেটা থেকে সফটওয়্যার ইউজ করে প্যাটার্ন বের করে বা ইউজফুল ইনফরমেশন বের করে 
+কোম্পানিগুলো তাদের কাস্টমার সম্পর্কে আরো বিশদভাবে জানতে ও বুঝতে পারবে। কোম্পানিগুলো তাদের  মার্কেটিং স্ট্রাটেজি ডেভেলপ করে নিজেদের পণ্যের বিক্রয় বাড়াতে পারে, একইসাথে খরচ কমাতেও পারে। 
+
+তবে ডেটা মাইনিং অপারেশন সফল হতে কিছু নির্দিষ্ট বিষয়ের দিকে লক্ষ্য রাখতে হয়। যেমন, 
+
+* effective data collection
+* warehousing and 
+* computer processing.
+
+
+ডেটা মাইনিং শুধু ট্রেন্ডস বা প্যাটার্ন খোঁজার মধ্যে সীমাবদ্ধ না। কোম্পানির গ্রাহকরা আসলে কি কিনতে চায়, 
+কিসে আগ্রহী, এছাড়াও ফ্রড ডিটেকশন এবং স্প্যাম ফিল্টারিং এসব কাজেও কর্পোরেশনগুলি ডেটা মাইনিং ব্যবহার করে। 
+
+The data mining process breaks down into five steps. 
+
+First, organizations collect data and load it into their data warehouses. 
+Next, they store and manage the data, either on in-house servers or the cloud. Business analysts, management teams, and information technology professionals access the data and determine how they want to organize it. 
+
+Then, application software sorts the data based on the user's results, and finally, the end-user presents the data in an easy-to-share format, such as a graph or table.
+
+ডেটা মাইনিং প্রসেস টা ৫ টি ধাপে পরিচালিত হয়। 
+১. প্রথমত, organizations ডেটা কালেক্ট করে এবং এটি ডেটা ওয়্যারহাউসে লোড করে। 
+২. এরপরে তারা ইন হাউস সার্ভার বা ক্লাউডে ডেটা স্টোর এবং ম্যানেজ করে। 
+৩. বিজনেস এনালিস্ট, ম্যানেজমেন্ট টিম এবং আইটি প্রফেশনালরা ডেটা অ্যাক্সেস করে এবং তারা সিদ্ধান্ত নেয় কিভাবে এতসব ডেটা কে অরগানাইজ করা হবে। 
+৪,৫. এরপর অ্যাপ্লিকেশন সফটওয়্যার ব্যবহার করে ব্যবহারকারীর রেজাল্টের উপর ভিত্তি করে ডেটা 
+যাচাইবাছাই করে। অবশেষে, ডেটা উপস্থাপন করার জন্য ইজি ফরম্যাট যেমন গ্রাফ, টেবিলে ডেটা প্রেজেন্ট করা হয়। 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
