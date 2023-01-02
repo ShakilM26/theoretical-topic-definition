@@ -1,31 +1,17 @@
-ডেটা বিশ্লেষণ হল ডেটা সায়েন্সের একটি দিক যা বিভিন্ন ধরণের উদ্দেশ্যে ডেটা বিশ্লেষণ করে। ইউজফুল 
-ইনসাইট বের করতে inspecting,cleaning,transforming and modeling data এর মত বিষয় এখানে জড়িত। 
-
+ডেটা বিশ্লেষণ হল ডেটা সায়েন্সের একটি দিক যা বিভিন্ন ধরণের উদ্দেশ্যে ডেটা বিশ্লেষণ করে। 
+ইউজফুল ইনসাইট বের করতে inspecting,cleaning,transforming and modeling data এর মত বিষয় এখানে জড়িত। 
 ডেটা এনালাইসিস এর বিভিন্ন দিক, methodologies and techniques এর সমন্বয়ে বিজনেস, সোশ্যাল সায়েন্সসহ বিভিন্ন ফিল্ডে ডেটা এনালাইসিস ব্যবহার হয়। 
 
 
 R for Data Science বই অনুসারে ডেটা এনালাইসিস দুই ভাগে বিভক্ত। 
 
+Hypothesis Generation — This involves looking deeply at the data and combining your domain knowledge to generate hypotheses about why the data behaves the way it does. অনেক ডিপলি ডেটাকে চেক করা হয়। ডেটার বিহেভেরিয়ার বিভিন্ন ক্ষেত্রে কেন এবং কিভাবে হয় তা অনুমান করে এবং এই দুইয়ের সমন্বয়ে ডোমেইন নলেজ কে আরো প্রোডাক্টিভ করে তোলে। 
 
-Hypothesis Generation — This involves looking deeply at the data and combining your domain knowledge to generate hypotheses about why the data behaves the way it does. অনেক ডিপলি ডেটাকে চেক করা হয়। ডেটার বিহেভেরিয়ার বিভিন্ন ক্ষেত্রে কেন এবং কিভাবে হয় তা অনুমান করে এবং এই দুইয়ের সমন্বয়ে ডোমেইন নলেজ 
-কে আরো প্রোডাক্টিভ করে তোলে। 
-
-Hypothesis Confirmation — This involves using a precise mathematical model to generate falsifiable predictions with statistical sophistication to confirm your prior hypotheses.
-পূর্বের হাইপোথিসিস ঠিক রয়েছে কিনা তা নিশ্চিত করার জন্য ম্যাথম্যাটিকাল মডেল ব্যবহার করে প্রেডিকশন করা হয় এবং এতে ব্যবহার হয় স্ট্যাটিস্টিক্যাল sophistication. 
-
-
+Hypothesis Confirmation — This involves using a precise mathematical model to generate falsifiable predictions with statistical sophistication to confirm your prior hypotheses. পূর্বের হাইপোথিসিস ঠিক রয়েছে কিনা তা নিশ্চিত করার জন্য ম্যাথম্যাটিকাল মডেল ব্যবহার করে প্রেডিকশন করা হয় এবং এতে ব্যবহার হয় স্ট্যাটিস্টিক্যাল sophistication. 
 
 
 ///////////////////////////////////////////////////////////////
 
-Asynchronous programming allows an application to do more than one thing at a time. Async operations speed computation, from your browser to highest of high-frequency trading operations
-
-
-
-Threads:
-A thread runs the function in the background and multiple threads run at the same time. Once a thread starts, the code takes place in the background and the program is free to move forward with other tasks.
-
-To launch a separate thread in Python, specify which function and pass in the arguments for the thread below. The image below is an example of the original place_orders API running on multiple threads with different parameters.
 
 
 
