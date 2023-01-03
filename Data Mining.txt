@@ -78,7 +78,8 @@ Data কালেক্ট করার পর Data cleaning, data consolidation
 
 
 
-
+𝗗𝗮𝘁𝗮 𝗪𝗿𝗮𝗻𝗴𝗹𝗶𝗻𝗴:
+Data wrangling is the process of transforming raw unstructured data to a form that is ready for further analysis such as data visualization or for model building. 
 
 
 
