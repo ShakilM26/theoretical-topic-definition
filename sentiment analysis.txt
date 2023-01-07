@@ -1,0 +1,4 @@
+Sentiment analysis is a process of NLP that can identify whether any text type data is positive or negative.
+For example, e-commerce companies can find out what customers think about their products, what they like or dislike, what things should be developed.
+
+In today's social media era, people share their feelings, emotions, opinions, product likes, dislikes or pros and cons in the form of text.
