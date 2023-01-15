@@ -1,0 +1,49 @@
+এসকিউয়েল সার্ভার ৪ ধরণের কমান্ড সাপোর্ট করে বা ৪ ধরণের কমান্ড নিয়ে কাজ করে। 
+
+DDL (Data Definition Language): অবজেক্ট স্ট্রাকচার নিয়ে কাজ করার সময় DDL কমান্ড ব্যবহার হয়। ৩ ধরণের DDL কমান্ড রয়েছে এসকিউয়েল সার্ভারে। 
+
+* Create - This Command creates an object
+* Alter - It makes changes in an object 
+* Drop - It deletes an object
+
+*******************************************************************
+DML (Data Manipulation Language): ডেটাবেজে থাকা ডেটার উপর ডেটা ম্যানিপুলেশন করা এই কমান্ডের কাজ। ৩ ধরণের DML কমান্ড রয়েছে। 
+
+* Insert - Adds data into a table
+* Delete - Deletes the specific data from the table
+* Update - Updating values of data in the table
+
+*******************************************************************
+DCL (Data Control Language): ডেটাবেজে থাকা ডেটার সিকিউরিটি নিশ্চিত করাই এর কাজ। ২ ধরণের DCL কমান্ড রয়েছে। 
+
+* Grant - grants database access permission to its user.
+* Revoke - This command opposite of 'Grant'. It takes back the database access permission from a user. 
+
+*******************************************************************
+TCL (Transactional Control Language): Transaction ম্যানেজমেন্ট করার কাজে TCL কমান্ড লাগে। 
+
+* Commit - saves transaction in sql permanently.
+* Rollback - this command undo all changes made to the data in database before commiting.
+* Save Tran - It saves transaction in sql server and rolls it back to the desired point
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
