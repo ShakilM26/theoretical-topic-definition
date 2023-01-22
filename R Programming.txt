@@ -1,0 +1,59 @@
+R হল একটি এডভান্স ল্যাঙ্গুয়েজ যেটা কমপ্লেক্স টাইপের স্ট্যাটিস্টিক্যাল ক্যালকুলেশন গণনার জন্য ব্যবহার হয়। ডেটা সায়েন্স ফিল্ডে আরো বেশি ব্যবহার কারণ হল, গ্রাফিক্যাল ফর্মে ডেটা ব্যাখ্যা করে যার কারণে ডেটা বোঝা আরো সহজ হয়ে উঠে। এরই সাথে ডেটা অ্যানালিটিকাল ফিল্ডের আরো এডভান্স লেভেল যেমন, মেশিন লার্নিং, অ্যালগোরিদমের জন্য আর এর বিভিন্ন অপশন রয়েছে। 
+
+R প্রোগ্রামিং ব্যবহার করে ডেটা এনালাইসিস করার প্রক্রিয়াকে আর আনালিটিক্স নামে জনপ্রিয়। 
+R ল্যাঙ্গুয়েজে ভিজ্যুয়ালাইজেশন, রিপোর্ট তৈরি করার ক্যাপাবিলিটি রয়েছে যা বিজনেস এবং ডেটা সায়েন্স দুইটার ক্ষেত্রেই খুবই প্রয়োজনীয়। 
+
+বিভিন্ন অপারেটিং সিস্টেমে আর ল্যাঙ্গুয়েজ স্পেসিফিক সফটওয়্যার এবং হার্ডওয়্যার দিয়ে চলতে পারে। 
+Oracle, MySQL, Excel, SQLite থেকে ইজিলি ডেটা ইমপোর্ট করতে পারে। 
+
+R is a statistical language by nature.
+প্রয়োজনীয় স্ট্যাটিস্টিক্যাল এলিমেন্ট, প্রবাব্লিটি ডিস্ট্রিবিউশন, স্ট্যাটিক গ্রাফ, ম্যাপ, প্লট এবং ফান্ডামেন্টাল  স্ট্যাটিসটিক্স এর সমস্ত ক্যালকুলেশন এর জন্য এলিমেন্ট রয়েছে। 
+
+Adaptability এবং ব্যবহারিক অনেক কাজে ইজিলি ব্যবহার করা যায় বলে R প্রচুর গ্রহণযোগ্যতা পেয়েছে। উদাহরণ, কম্পিউটেশনাল বায়োলজি তে জিনোমিক বিশ্লেষণে, ফাইনান্সিয়াল সেক্টরে ফ্রড ট্রান্জাকশন বা অর্থ জালিয়াতি এবং ইকোনমিক মডেল তৈরি করতে এটা ব্যবহার হয়। 
+
+
+
+
+
+
+
+বিগ ডেটা এবং ডেটা অ্যানালিটিক্সের মধ্যে সবচেয়ে বড় ডিফারেন্স হল তাদের মধ্যে একটি হল টুল। 
+বিগ ডেটা ইজ মোর ওয়াইড অ্যান্ড মোর থরো প্রসেস, বিগ ডেটায় ব্যবহিত টুলসগুলো স্মার্ট এবং কমপ্লেক্স টাইপের হয়।  প্যারালাল প্রসেসিং এবং অটোমেশনের সাহায্যে Unordered data কে 
+ordered data বা অরগানাইজ ডেটা অথবা ইউজফুল ডেটা তে ট্রান্সফার করা যায়। 
+
+উল্টোদিকে data analytics, statistical modeling and predictive modeling এর ব্যাসিক মেথড ইউজ করে। একইভাবে কম্পিউটেশনাল এবং স্ট্যাটিস্টিক্যাল প্রসিডিউর ইউজ করা হয় data deciphering এবং evaluation করার জন্য। 
+
+
+
+Big data isn’t concerned with providing responses to specific questions; instead, it peruses enormous databases in sometimes irrational ways to reveal trends. Data analytics is more effective when it is narrowly focused and has concerns in mind that need to be solved using available data. Big data generates larger thoughts that focus on what concerns should be addressed, whereas data analytics emphasizes the responses to the queries that have already been asked.
+
+
+Big data is frequently used in industries such as banking, retailing, telecoms, etc., which contain usually a heck of a lot of data that needs to be handled, preserved, and analyzed to gather perspective.   Where there is no intricate data administration needed, such as in the health care and travel sectors, data analytics is often used.
+
+Big data and data analytics are ought to be at the top of a business company’s goals. They both pledge to work together to turn the company into a successful enterprise. Processes are being automated, and this is fostering efficiency and innovation inside the company.  Business executives are looking for fresh approaches to incorporate big data and analytics into their companies. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
