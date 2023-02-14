@@ -1,0 +1,49 @@
+Visualization is one of the stages of data analysis that helps to
+demonstrate the main trends, dependencies, and deviations of indicators
+in an informative and interactive way. 
+
+
+Visualization is a chiefly comprehensible business logic that helps to make correct 
+management decisions.
+
+
+First of all, consider the audience — those who will review the data. Most
+often these are company directors, department and subdivision
+supervisors, stakeholders, investors, and so on
+
+
+A visualization method also depends on its purpose
+
+
+dashboard visualization is suited for
+quick comprehension, and as such, it should have minimal information so
+a supervisor can quickly understand the data.
+
+
+#Minimalism
+
+First and foremost, keep in mind the «less is more» principle.That is,the
+fewer excessive details there are the better.
+
+
+ন্যাভিগেশন হলো scope of certain elements in diagrams 
+বিভিন্ন ধরণের ডায়াগ্রামে ভ্যালু সর্ট করা যায় বছর, মাস, কোয়ার্টার বা ব্রাঞ্চিং এর উপর নির্ভর করে। 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
