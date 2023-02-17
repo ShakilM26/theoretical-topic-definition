@@ -1,0 +1,44 @@
+
+ডেটা নিয়ে কাজ করার সময় ৩ টি গুরুত্বপূর্ণ বিষয় খেয়াল রাখতে হবে। 
+
+1. Recognize data structure
+2. Assign values to data structure
+3. Manipulate the data
+
+
+Here are different types of Data Structure:
+
+1. Atomic vectors - (Type: Homogenous, Dimensionality: 1)
+2. Matrix - (Type: Homogenous, Dimensionality: 2)
+3. Factors - (Type: Homogenous, Dimensionality: 1)
+4. Arrays - (Type: Homogenous, Dimensionality: n)
+5. List - (Type: Heterogenous, Dimensionality: 1)
+6. Data Frames - (Type: Heterogenous, Dimensionality: 2)
+
+Type Homogenous means same data type
+And Heterogenous means multiple data types
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
