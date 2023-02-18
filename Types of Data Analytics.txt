@@ -5,108 +5,12 @@
 
 R for Data Science বই অনুসারে ডেটা এনালাইসিস দুই ভাগে বিভক্ত। 
 
-Hypothesis Generation — This involves looking deeply at the data and combining your domain knowledge to generate hypotheses about why the data behaves the way it does. অনেক ডিপলি ডেটাকে চেক করা হয়। ডেটার বিহেভেরিয়ার বিভিন্ন ক্ষেত্রে কেন এবং কিভাবে হয় তা অনুমান করে এবং এই দুইয়ের সমন্বয়ে ডোমেইন নলেজ কে আরো প্রোডাক্টিভ করে তোলে। 
-
-Hypothesis Confirmation — This involves using a precise mathematical model to generate falsifiable predictions with statistical sophistication to confirm your prior hypotheses. পূর্বের হাইপোথিসিস ঠিক রয়েছে কিনা তা নিশ্চিত করার জন্য ম্যাথম্যাটিকাল মডেল ব্যবহার করে প্রেডিকশন করা হয় এবং এতে ব্যবহার হয় স্ট্যাটিস্টিক্যাল sophistication. 
-
-
-///////////////////////////////////////////////////////////////
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Hypothesis Generation — This involves looking deeply at the data and combining your domain knowledge to generate hypotheses about 
+why the data behaves the way it does. অনেক ডিপলি ডেটাকে চেক করা হয়। 
+ডেটার বিহেভেরিয়ার বিভিন্ন ক্ষেত্রে কেন এবং কিভাবে হয় তা অনুমান করে এবং এই দুইয়ের সমন্বয়ে ডোমেইন নলেজ কে আরো প্রোডাক্টিভ করে তোলে। 
+
+Hypothesis Confirmation — This involves using a precise mathematical model to generate falsifiable predictions with 
+statistical sophistication to confirm your prior hypotheses. 
+পূর্বের হাইপোথিসিস ঠিক রয়েছে কিনা তা নিশ্চিত করার জন্য ম্যাথম্যাটিকাল মডেল ব্যবহার করে প্রেডিকশন করা হয় এবং এতে ব্যবহার হয় স্ট্যাটিস্টিক্যাল sophistication. 
 
 
