@@ -1,5 +1,13 @@
-A full-stack data scientist is a unicorn who is capable of fulfilling the role of a software engineer, data engineer, business analyst, machine learning engineer, and data scientist, all wrapped up in one package. These individuals have diverse skill sets beyond even that of a regular data scientist and could be a company’s one-stop shop for managing the entire lifecycle of a data science project.
+A full-stack data scientist is a unicorn who is capable of fulfilling the role of a software engineer, 
+data engineer, business analyst, machine learning engineer, and data scientist, all wrapped up in one package. 
+These individuals have diverse skill sets beyond even that of a regular data scientist and could be a company’s one-stop shop 
+for managing the entire lifecycle of a data science project.
 
 
-যে একইসাথে সফটওয়্যার ইঞ্জিনিয়ার,  ডেটা ইঞ্জিনিয়ার, বিজনেস এনালিস্ট, মেশিন লার্নিং ইঞ্জিনিয়ার এবং ডেটা সায়েন্টিস্ট অর্থাৎ যে এতগুলো বিষয়ে পারদর্শী বা স্কিলফুল পার্সন তাকেই বর্তমান সময়ে ফুল স্ট্যাক ডেটা সায়েন্টিস্ট বলা হয়। একটি কোম্পানির ডেটা সায়েন্স প্রজেক্টের পুরো লাইফ সাইকেল সেই ফুল স্ট্যাক ডেটা সায়েন্টিস্ট এর হাতে থাকে, তাকে এতসব ভূমিকা একাই পালন করতে হয়। 
-ইউনিকর্ন বলতে খুবই দুর্লভ জিনিস কিংবা খুবই উচ্চমানের ভ্যালু সম্পন্ন কোন কিছুকে বুঝায়। আজকের এই পৃথিবীতে ডেটার এত ছড়াছড়ির যুগে একজন ফুল স্ট্যাক ডেটা সায়েন্টিস্ট কে ইউনিকর্নের সাথে তুলনা করা হয়। 
+যে একইসাথে সফটওয়্যার ইঞ্জিনিয়ার,  ডেটা ইঞ্জিনিয়ার, বিজনেস এনালিস্ট, মেশিন লার্নিং ইঞ্জিনিয়ার এবং ডেটা সায়েন্টিস্ট অর্থাৎ 
+যে এতগুলো বিষয়ে পারদর্শী বা স্কিলফুল পার্সন তাকেই বর্তমান সময়ে ফুল স্ট্যাক ডেটা সায়েন্টিস্ট বলা হয়। 
+
+একটি কোম্পানির ডেটা সায়েন্স প্রজেক্টের পুরো লাইফ সাইকেল সেই ফুল স্ট্যাক ডেটা সায়েন্টিস্ট এর হাতে থাকে, তাকে এতসব ভূমিকা একাই পালন করতে হয়। 
+
+ইউনিকর্ন বলতে খুবই দুর্লভ জিনিস কিংবা খুবই উচ্চমানের ভ্যালু সম্পন্ন কোন কিছুকে বুঝায়। আজকের এই পৃথিবীতে ডেটার এত ছড়াছড়ির যুগে 
+একজন ফুল স্ট্যাক ডেটা সায়েন্টিস্ট কে ইউনিকর্নের সাথে তুলনা করা হয়। 
