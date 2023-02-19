@@ -1,6 +1,5 @@
-Visualization is one of the stages of data analysis that helps to
-demonstrate the main trends, dependencies, and deviations of indicators
-in an informative and interactive way. 
+ভিজ্যুয়ালাইজেশন ডেটা এনালাইসিসের গুরুত্বপূর্ণ একটি অংশ যেখানে ডেটার main trends, dependencies, and deviations of indicators, insight 
+ইন্টারেকটিভ এবং ইনফরমেটিভ ওয়েতে প্রকাশ করা হয়। 
 
 
 Visualization is a chiefly comprehensible business logic that helps to make correct 
