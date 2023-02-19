@@ -1,48 +1,27 @@
 ভিজ্যুয়ালাইজেশন ডেটা এনালাইসিসের গুরুত্বপূর্ণ একটি অংশ যেখানে ডেটার main trends, dependencies, and deviations of indicators, insight 
 ইন্টারেকটিভ এবং ইনফরমেটিভ ওয়েতে প্রকাশ করা হয়। 
+বিজনেসের ক্ষেত্রে সঠিক ম্যানেজমেন্ট ডিসিশন নিতে ভিজ্যুয়ালাইনেশনের সাহায্য নেয় এনালিস্টরা। 
 
 
-Visualization is a chiefly comprehensible business logic that helps to make correct 
-management decisions.
-
-
-First of all, consider the audience — those who will review the data. Most
-often these are company directors, department and subdivision
-supervisors, stakeholders, investors, and so on
+ভিজ্যুয়ালাইজেশন তৈরি করার সময় খুবই গুরুত্বপূর্ণ কিছু বিষয় মাথায় রাখতে হয়। যেমন, প্রথমত যারা এই ভিজ্যুয়ালাইজেশন বা ডেটা রিভিউ করবে। 
+বেশিরভাগ সময়ে কোম্পানি ডিরেক্টর, ডিপার্টমেন্ট এবং সাবডিভিশন সুপারভাইজার, স্টকহোল্ডার, ইনভেস্টর ইত্যাদি। 
 
 
 A visualization method also depends on its purpose
 
 
-dashboard visualization is suited for
-quick comprehension, and as such, it should have minimal information so
-a supervisor can quickly understand the data.
+খুব দ্রুত এবং গুরুত্বপূর্ণ তথ্যগুলি সহজে প্রকাশ করার জন্য ড্যাশবোর্ডের বিকল্প নেই।  
 
 
 #Minimalism
 
-First and foremost, keep in mind the «less is more» principle.That is,the
-fewer excessive details there are the better.
+First and foremost, keep in mind the «less is more» principle.
+
+অর্থাৎ যত কম বিবরণ তত ভালো ভিজ্যুয়ালাইজেশন। অবশ্যই যত কম বলতে গুরুত্বপূর্ণ জিনিস সংযুক্ত রেখেই বলা হয়েছে। 
 
 
 ন্যাভিগেশন হলো scope of certain elements in diagrams 
 বিভিন্ন ধরণের ডায়াগ্রামে ভ্যালু সর্ট করা যায় বছর, মাস, কোয়ার্টার বা ব্রাঞ্চিং এর উপর নির্ভর করে। 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
