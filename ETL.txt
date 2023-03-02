@@ -1,7 +1,7 @@
-What is ETL?
+𝐖𝐡𝐚𝐭 𝐢𝐬 𝐄𝐓𝐋?
 
 ETL are used for data extraction, transformation, and load.
-ETL means Extract, Transform and Load.
+𝐒𝐢𝐦𝐩𝐥𝐲, 𝐄𝐓𝐋 𝐦𝐞𝐚𝐧𝐬 𝐄𝐱𝐭𝐫𝐚𝐜𝐭, 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦 𝐚𝐧𝐝 𝐋𝐨𝐚𝐝.
 
 
 Data extraction is the process of transforming data from any data source into an appropriate format for storage and future reference.
@@ -14,24 +14,6 @@ Data extraction is the process of transforming data from any data source into an
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+টুলস সম্পর্কে আরেকটু জানতে চাইলেঃ 
+https://www.analyticsinsight.net/top-10-etl-tools-to-look-out-for-in-the-year-2023/
 
