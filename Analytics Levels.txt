@@ -1,0 +1,58 @@
+
+Analytics levels can be classified using a DIPP framework. The definition and examples are listed below:
+
+Descriptive — gain insights from data. E.g., sales by regions and
+territories for a pharmaceutical company for a specific brand of drug.
+
+Inquisitive — Understand specific trends or findings from data using
+descriptive statistics. E.g., if sales of the region for a drug are low, why
+did sales go down
+
+Predictive — making a prediction using statistical and machine
+learning models. E.g., forecasting sales of a drug using historical data
+so that goals can be set for sales representatives.
+
+Prescriptive — Recommendation of decisions to business stakeholders
+using optimization or solution. E.g., to improve sales, prescribers in a
+region should be targeted by sales representatives.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
