@@ -1,10 +1,5 @@
-Data Analysis is a process where we perform cleaning, transform, analyze and modeling the data so that we can find some useful information 
-and use it in the future predictions. Also analysts analyze the relationship 
-and correlation between datasets, identify patterns and trends for interpretation.
-
 
 Analytics levels can be classified using a DIPP framework. The definition and examples are listed below:
-
 
 Descriptive — gain insights from data. E.g., sales by regions and
 territories for a pharmaceutical company for a specific brand of drug.
