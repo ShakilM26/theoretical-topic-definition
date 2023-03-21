@@ -1,0 +1,65 @@
+
+Data Analytics: ডেটা এবং টুলস ইউজ করে বিজনেস ডিসিশন নেয়ার এক বিশাল সেক্টর হল ডেটা এনালিটিক্স। 
+অপরদিকে ডেটা এনালাইসিস হল ডেটা এনালিটিক্স এর একটি সাবসেট। ডেটা এনালিটিক্সে যেসব স্টেপ বা ধাপ নেয়া হয়, ডেটা ডিস্কভার, ইন্টারপ্রেট, প্যাটার্ন, ট্রেন্ড, ভিজ্যুয়ালাইজ, ডেটা কে স্টোরি আকারে প্রেজেন্ট করা, প্রেডিকশন করা এবং তার রিস্ক কেমন, বিজনেস ডিসিশন সবই ডেটা এনালিটিক্সের মধ্যে রয়েছে। 
+
+Process in data analytics:
+1. Collecting and ingesting the data
+2. Categorizing the data into structured forms
+3. Managing the data (databases, data lakes, data warehouses)
+4. Storing the data
+5. Performing ETL
+6. Analyzing the data to extract patterns, trends and insights
+7. Sharing the data using Dashboard or something to business users, consumers
+
+
+Data Analysis: ডেটা এনালাইসিস হলো, ডেটা ক্লিনিং, ট্রান্সফরমিং, মডেলিং এবং ডেটাকে এনালাইজ করে ইউজফুল ইনফরমেশন বের করা। 
+There are many types of data analysis. Some are, Text, Statistical, Diagnostic, Predictive, Prescriptive. বিজনেসে প্রয়োজন অনুসারে এইসমস্ত টাইপের এনালাইসিস কে কখনো একত্র করে কাজ করা হয়।
+
+একজন নতুন ব্যবসায়ি শেয়ারবাজারের তথ্য এবং ট্রেন্ড রেকর্ড নিয়ে ঘাটাঘাটি করে এইজন্য যে শেয়ারবাজারে কি ঘটছে তা জানার জন্য। এটা ডেটা এনালাইসিস এর অন্তর্ভুক্ত। 
+
+অপরদিকে, স্টক মার্কেটের তথ্য যাচাই করে ভবিষ্যতে মার্কেটের অবস্থা কেমন দাঁড়াবে, তার উপর নির্ভর করে কোন সিদ্ধান্ত নেয়া যায় এমন হলে সেটা ডেটা এনালিটিক্সের অন্তর্ভুক্ত। 
+
+
+
+Data Analytics Sequence:                       Data Analysis Sequence:
+* Case evaluation                              * Data cleaning  
+* Data identification                          * Data visualization
+* Data acquisition & filtering                 * Creating data stories 
+* Data extraction                                 using insights
+* Data validation & cleansing
+* Data aggregation & representation
+* Data analysis
+* Data visualization
+* Creating data stories 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
