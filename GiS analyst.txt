@@ -1,4 +1,5 @@
-GIS means Geographic Information Systems
+𝐆𝐈𝐒 𝐦𝐞𝐚𝐧𝐬 𝐆𝐞𝐨𝐠𝐫𝐚𝐩𝐡𝐢𝐜 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐒𝐲𝐬𝐭𝐞𝐦𝐬
+
 
 A GIS (Geographic Information Systems) Analyst is a professional who uses GIS technology and spatial analysis to help organizations make informed decisions. 
 GIS analysts work with geographic data, such as maps and satellite imagery, to create visual representations of information and analyze patterns 
