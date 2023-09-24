@@ -19,26 +19,3 @@ Type Homogenous means same data type
 And Heterogenous means multiple data types
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
