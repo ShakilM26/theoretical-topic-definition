@@ -1,0 +1,50 @@
+Object: An object is a class instance that allows programmers to use variables 
+and methods from inside the class.
+
+Class: A class is a blueprint for declaring and creating objects.
+
+
+4 OOP concepts.
+1. Polymorphism
+2. Inheritance
+3. Encapsulation
+4. Abstraction
+
+Polymorphism: 
+Polymorphism is the ability to exist in many forms. Like a student can be a good player, a writer.
+
+Inheritance:
+Inheritance means it allows classes to inherit common properties from the parent class. Like a child can inherit some things from his father.
+
+Encapsulation:
+Encapsulation means it binds data and code together into one unit.
+Like Govt. can binds sales dept, accounts dept, purchase and production dept.
+
+Abstraction:
+In Abstraction, it displays only the important information by hiding the implementation part.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
