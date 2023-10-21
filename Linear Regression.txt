@@ -1,0 +1,20 @@
+
+Linear Regression is a regression model that uses a straight line to describe the relationship between variables.
+
+Why we need this ? 
+It finds the line of best fit through your data by searching for the value of the regression coefficient/s that minimizes the total error of the model.
+
+2 main types of linear regression we know.
+* simple linear reg: uses only one independent variable
+* multiple linear reg: uses two or more independent variable
+
+
+
+
+
+
+
+
+
+
+
