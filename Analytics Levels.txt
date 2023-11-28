@@ -16,9 +16,3 @@ Prescriptive — Recommendation of decisions to business stakeholders
 using optimization or solution. E.g., to improve sales, prescribers in a
 region should be targeted by sales representatives.
 
-
-
-
-
-
-
